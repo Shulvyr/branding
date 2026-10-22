@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "name": "Shulvyr flat shell mascot 16px",
+  "width": 16,
+  "height": 16,
+  "transparent": ".",
+  "palette": {
+    "o": "#221A35",
+    "p": "#7954AD",
+    "l": "#B79ADD",
+    "a": "#F2C46D",
+    "e": "#221A35"
+  },
+  "rows": [
+    "................",
+    "................",
+    "...oooooooooo...",
+    "..opllllllllpo..",
+    "..oppppppppppo..",
+    "..oooooooooooo..",
+    "....oaaaaaao....",
+    "....oaeaaeao....",
+    "....oaaaaaao....",
+    "..oooooooooooo..",
+    "..ollllllllllo..",
+    "..olpppppppppo..",
+    "..oppppppppppo..",
+    "...oooooooooo...",
+    "................",
+    "................"
+  ],
+  "design_method": "Original four-color front-view shell mascot on a 16px grid. One-cell cutaway outer corners, inset face and thick lower shell. No perspective. The 32px representation repeats every cell exactly 2x2."
+}

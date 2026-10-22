@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "project": "Shulvyr",
+  "colors": {
+    "o": "#221A35",
+    "p": "#7954AD",
+    "l": "#B79ADD",
+    "a": "#F2C46D",
+    "e": "#221A35"
+  },
+  "variants": {
+    "light": {
+      "o": "#221A35",
+      "p": "#7954AD",
+      "l": "#B79ADD",
+      "a": "#F2C46D",
+      "e": "#221A35"
+    },
+    "dark": {
+      "o": "#E2D2F3",
+      "p": "#7954AD",
+      "l": "#B79ADD",
+      "a": "#F2C46D",
+      "e": "#221A35"
+    },
+    "black": {
+      "o": "#000000",
+      "p": "#000000",
+      "l": null,
+      "a": null,
+      "e": "#000000"
+    },
+    "white": {
+      "o": "#FFFFFF",
+      "p": "#FFFFFF",
+      "l": null,
+      "a": null,
+      "e": "#FFFFFF"
+    }
+  },
+  "surfaces": {
+    "light": "#F3EFF8",
+    "dark": "#191423",
+    "white": "#FFFFFF",
+    "black": "#000000"
+  }
+}
